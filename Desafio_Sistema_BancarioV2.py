@@ -76,8 +76,8 @@ def criar_usuario(usuarios):
         return
     nome = input('Digite seu nome completo: ')
     data_nascimento = input('Digite sua data de nascimento (dd/mm/aa): ')
-    edereco = input('Digite o seu endereço(logradouro, numero-bairro-cidade/sigla estado): ')
-    usuarios.append({"nome": nome, "data_nascimeto": data_nascimento, "cpf": cpf, "endereco": edereco})
+    endereco = input('Digite o seu endereço(logradouro, numero-bairro-cidade/sigla estado): ')
+    usuarios.append({"nome": nome, "data_nascimeto": data_nascimento, "cpf": cpf, "endereco": endereco})
     print('\n---- Usuario criado com sucesso!----')
 
 def filtrar_usuarios(cpf, usuarios):
