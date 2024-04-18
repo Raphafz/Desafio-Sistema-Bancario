@@ -29,3 +29,6 @@ Os valores devem ser exibidos utilizando o formato R$ xxx.xx.
 ## Versão 2
 O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo.
 Vamos criar funçoes para as operações extrato, sacar, deposito e visualizar histórico. Além disso, para a versão 2 do nosso sistema vamos criar duas novas funções: criar usuário (cliente do banco) e cria conta corrente (vincular com usuário).
+
+## Versão 3
+iremos atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML.
