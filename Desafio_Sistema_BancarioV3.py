@@ -282,7 +282,7 @@ def main():
             numero_conta = len (contas) + 1
             criar_conta(numero_conta, clientes, contas)
         elif opcao =='6':
-            listar_contas(contas)
+            listar_clientes(contas)
         elif opcao == '0':
             break
         else:

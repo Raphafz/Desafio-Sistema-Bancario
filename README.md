@@ -31,4 +31,5 @@ O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as
 Vamos criar funçoes para as operações extrato, sacar, deposito e visualizar histórico. Além disso, para a versão 2 do nosso sistema vamos criar duas novas funções: criar usuário (cliente do banco) e cria conta corrente (vincular com usuário).
 
 ## Versão 3
+### Versão orientada a objeto 
 iremos atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML.
