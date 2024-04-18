@@ -33,3 +33,11 @@ Vamos criar funçoes para as operações extrato, sacar, deposito e visualizar h
 ## Versão 3
 ### Versão orientada a objeto 
 iremos atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML.
+
+## Versão 3.1
+### Iteradores, Decoradores e Geradores
+Foram implementadas novas funcionalidades no sistema e atualizada/otimizada algumas
+Novas funcionalidades:
+- Decorador de log
+- Gerador de relatórios
+- Iterador personalizado 
